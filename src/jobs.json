@@ -99,20 +99,6 @@
       }
     },
     {
-      "id": "97b4",
-      "title": "Kenyon Ewing",
-      "type": "Internship",
-      "location": "Voluptatem voluptate",
-      "salary": "$100K - $125K",
-      "description": "Id consequatur Ex e",
-      "company": {
-        "name": "Gillespie Potts Plc",
-        "description": "Ipsa fugit ut aliq",
-        "contactEmail": "netof@mailinator.com",
-        "contactPhone": "+1 (503) 344-2165"
-      }
-    },
-    {
       "id": "3bde",
       "title": "Jordan Mckay",
       "type": "Internship",
@@ -141,20 +127,6 @@
       }
     },
     {
-      "id": "7f40",
-      "title": "Lacey Figueroa",
-      "type": "Part-Time",
-      "location": "Voluptatum repellend",
-      "salary": "$50K - $60K",
-      "description": "Rerum et ullamco et ",
-      "company": {
-        "name": "Vang and Patrick Traders",
-        "description": "Blanditiis voluptati",
-        "contactEmail": "tadunot@mailinator.com",
-        "contactPhone": "+1 (354) 947-2936"
-      }
-    },
-    {
       "id": "b445",
       "title": "Alma Roberson",
       "type": "Internship",
@@ -166,20 +138,6 @@
         "description": "Suscipit modi repell",
         "contactEmail": "hesalem@mailinator.com",
         "contactPhone": "+1 (391) 493-9147"
-      }
-    },
-    {
-      "id": "aa42",
-      "title": "Bevis Conway",
-      "type": "Full-Time",
-      "location": "Consequatur ut in a",
-      "salary": "$150K - $175K",
-      "description": "Nulla est enim sed ",
-      "company": {
-        "name": "Howard and Stein Trading",
-        "description": "Nihil nihil magna no",
-        "contactEmail": "bawazevom@mailinator.com",
-        "contactPhone": "+1 (964) 566-3201"
       }
     }
   ]
